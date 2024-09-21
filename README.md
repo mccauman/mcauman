@@ -8,9 +8,9 @@ $-Dollar \
 *-Asterisk\
 (-Open parentheses\
 )-Close Parentheses\
-(www.facebook.com)\
-(www.instagram.com)\
-(www.youtube.com)\
+[facebook](www.facebook.com)\
+[instagram](www.instagram.com)\
+[youtube](www.youtube.com)\
 😄\
 💋\
 😢
