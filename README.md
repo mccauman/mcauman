@@ -14,3 +14,4 @@ $-Dollar \
 😄\
 💋\
 😢
+[CLI commands](docs/cli.md).
