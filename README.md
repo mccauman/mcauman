@@ -17,3 +17,5 @@
 - 😄
 - 😠
 - 💋
+
+[CLI Commands](Docs/cli.md)
